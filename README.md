@@ -1,3 +1,5 @@
+<img width="750" height="250" alt="github posters4" src="https://github.com/user-attachments/assets/66d5235f-0000-4aaa-b700-3a3323b79776" />
+
 # One Piece Cinematic Landing 🏴‍☠️
 
 A scroll-driven **One Piece landing page** built with **React, TailwindCSS, and GSAP**.  
