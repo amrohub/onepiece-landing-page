@@ -1,4 +1,4 @@
-# One Piece Cinematic Landing 🚢🏴‍☠️
+# One Piece Cinematic Landing 🏴‍☠️
 
 A scroll-driven **One Piece landing page** built with **React, TailwindCSS, and GSAP**.  
 This project delivers a **cinematic web experience** with pinned sections, synced video, smooth scroll animations, and a fully responsive design.
