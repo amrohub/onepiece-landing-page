@@ -3,7 +3,7 @@
 A scroll-driven **One Piece landing page** built with **React, TailwindCSS, and GSAP**.  
 This project delivers a **cinematic web experience** with pinned sections, synced video, smooth scroll animations, and a fully responsive design.
 
----
+
 
 ## ✨ Features
 - ⚡ **React + Vite** for blazing fast development
@@ -13,7 +13,7 @@ This project delivers a **cinematic web experience** with pinned sections, synce
 - 📱 Mobile-friendly & responsive layout
 - 🎥 Synced video + layered animations for a cinematic feel
 
----
+
 
 ## 🚀 Getting Started
 
@@ -52,7 +52,7 @@ yarn dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
----
+
 
 ## 📂 Project Structure
 
@@ -70,19 +70,19 @@ onepiece-cinematic-landing/
 
 *(Add a screenshot or GIF of the landing page here)*
 
----
+
 
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
----
+
 
 ## 🙏 Acknowledgements
 
 I’d like to give a special thanks to [Adrian Hajdin (JS Mastery)](https://github.com/adrianhajdin) for the inspiration and resources.
 
----
+
 
 ## 📜 License
 
