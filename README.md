@@ -66,10 +66,6 @@ onepiece-cinematic-landing/
 │── package.json
 ```
 
-## 🖼️ Preview
-
-*(Add a screenshot or GIF of the landing page here)*
-
 
 ## 🤝 Contributing
 
